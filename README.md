@@ -1,5 +1,7 @@
 # tutorial-fastapi-api
 
+[![Deploy to Light Cloud](https://light-cloud.com/button.svg)](https://console.light-cloud.com/new?repo=https://github.com/light-cloud-com/tutorial-fastapi-api)
+
 A small FastAPI app used in the Light Cloud tutorial
 [FastAPI in production: from main.py to a public URL](https://blog.light-cloud.com/tutorials/deploy-a-fastapi-app).
 
